@@ -14,14 +14,9 @@ Welcome to my GitHub profile! Here's a little about me:
 
 ## 🌐 Connect With Me
 - 🌱 I'm always open to **collaboration** and learning opportunities.
-- 📬 Reach out to me at **[your-email@example.com](mailto:your-email@example.com)** or connect on **[LinkedIn](https://linkedin.com/in/your-profile)**.
-
-## 💡 Fun Facts
-- 🎯 I aim to lose weight by practicing **keto diets**.
-- 📅 Born on **August 14, 1999**, making me a proud **Leo** 🦁.
+- 📬 Reach out to me at **[muoivo.051064@gmail.com](mailto:muoivo.051064@gmail.com)** or connect on **[Facebook](https://facebook.com/kiet.vohoang.1109/)**.
 
 ## ✨ Highlights
 - 🏗️ Skilled in **ReactJS, React Native, Redux Saga**, and **backend integration**.
-- 🎨 Expertise in **use-case design** for websites.
 
 Feel free to browse my repositories and star the ones you like ⭐. Let's build something amazing together!
