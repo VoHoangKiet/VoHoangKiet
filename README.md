@@ -65,21 +65,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-  <h3>🔥 Latest Projects</h3>
-</div>
-
-<div align="center">
-  <a href="https://github.com/VoHoangKiet/fu-self-learning-ui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VoHoangKiet&repo=fu-self-learning-ui&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="FU Self Learning UI" />
-  </a>
-  <!-- Add more project cards here -->
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -88,14 +73,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHoangKiet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🌟 What I'm Working On
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VoHoangKiet&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="WakaTime Stats" />
 </div>
 
 ---
