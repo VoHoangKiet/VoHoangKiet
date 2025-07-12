@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </div>
 
 ### 🎯 Skills & Expertise
@@ -53,11 +55,11 @@
     <tr>
       <td align="center" width="50%">
         <h3>Programming Languages</h3>
-        <p>C, C++, Java, JavaScript, TypeScript, Python</p>
+        <p>C, C++, C#, Java, JavaScript, TypeScript, Python</p>
       </td>
       <td align="center" width="50%">
         <h3>Tools & Technologies</h3>
-        <p>Git, Docker, VS Code, Postman, MongoDB, MySQL, PostgreSQL</p>
+        <p>Git, Docker, VS Code, Postman, MongoDB, MySQL, PostgreSQL, Unity</p>
       </td>
     </tr>
   </table>
@@ -136,8 +138,6 @@
 <div align="center">
   <h3>🎉 Let's Build Something Amazing Together!</h3>
   <p>Feel free to browse my repositories and star the ones you like ⭐</p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/github-contributions?username=VoHoangKiet&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Contributions" />
 </div>
 
 ---
