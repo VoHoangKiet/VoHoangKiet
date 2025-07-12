@@ -83,8 +83,8 @@
   <table>
     <tr>
       <td align="center">
-        <h3>📸 Photography</h3>
-        <p>Capturing life's beautiful moments through the lens</p>
+        <h3>🎤 Singing</h3>
+        <p>Expressing emotions and stories through heartfelt melodies</p>
       </td>
       <td align="center">
         <h3>💻 Coding</h3>
