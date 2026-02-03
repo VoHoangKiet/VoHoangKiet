@@ -1,104 +1,85 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+VoHoangKiet;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Hi+there!+👋;I'm+Vo+Hoang+Kiet;Full-stack+Developer+%7C+System+Builder;Welcome+to+my+GitHub!" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VoHoangKiet&style=flat-square&color=6366F1" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Student-FPT%20University-blue?style=flat-square&logo=university" alt="Student" />
-  <img src="https://img.shields.io/badge/Developer-Full%20Stack-orange?style=flat-square&logo=developer" alt="Developer" />
+  <img src="https://komarev.com/ghpvc/?username=VoHoangKiet&style=flat-square&color=6366F1" />
+  <img src="https://img.shields.io/badge/Student-FPT%20University-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-2026-success?style=flat-square" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoHoangKiet&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" alt="GitHub Stats" />
-</div>
+👋 Hi, I’m **Vo Hoang Kiet** — a **Full-stack Developer** who loves building **real products**, not just demos.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoHoangKiet&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=6366F1" alt="GitHub Streak" />
-</div>
+- 🎯 Focus: **Web · Mobile · Backend · System Design**
+- 🧠 Interests: **Scalable systems, Microservices, AI-assisted products**
+- 🧑‍🎓 Final-year student at **FPT University**
+- 🔥 Motto: *Build → Break → Learn → Repeat*
 
-### 💻 Tech Stack
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+## 🧠 What I’m Working On (2026)
 
+- ⚙️ **Microservice architectures** (Auth, Gateway, gRPC)
+- ☁️ **Cloud & DevOps** (AWS, CI/CD, infra thinking)
+- 🤖 **AI-powered features** (agents, personalization, automation)
+- 📱 **Production mobile apps** (React Native / Flutter)
+- 🎮 **Unity + GPS game systems**
 
-</div>
+---
 
-### 🎯 Skills & Expertise
+## 💻 Tech Stack
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Frontend Development</h3>
-        <p>React, React Native, Next.js, Redux Saga, TypeScript, JavaScript, HTML/CSS, Tailwind CSS</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>Backend Development</h3>
-        <p>Node.js, Spring Boot, NestJS, RESTful APIs, GraphQL, Database Design</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>Programming Languages</h3>
-        <p>C, C++, C#, Java, JavaScript, TypeScript, Python</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>Tools & Technologies</h3>
-        <p>Git, Docker, VS Code, Postman, MongoDB, MySQL, PostgreSQL, Unity</p>
-      </td>
-    </tr>
-  </table>
-</div>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
+
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+### Backend
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
+
+### Database & Infra
+![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
+![Postgres](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VoHoangKiet&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VoHoangKiet&show_icons=true&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHoangKiet&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoHoangKiet&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHoangKiet&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-## 🎨 Hobbies & Interests
+## 🎯 2026 Goals
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🎤 Singing</h3>
-        <p>Expressing emotions and stories through heartfelt melodies</p>
-      </td>
-      <td align="center">
-        <h3>💻 Coding</h3>
-        <p>Building innovative solutions and learning new technologies</p>
-      </td>
-      <td align="center">
-        <h3>📚 Learning</h3>
-        <p>Always exploring new frameworks and best practices</p>
-      </td>
-    </tr>
-  </table>
-</div>
+- ✅ Design **clean system architectures**
+- ✅ Ship **real, scalable products**
+- ✅ Contribute to **open-source**
+- ✅ Master **Cloud + AI integration**
+- ✅ Grow from *coder* → *engineer*
 
 ---
 
@@ -106,45 +87,23 @@
 
 <div align="center">
   <a href="mailto:muoivo.051064@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://facebook.com/kiet.vohoang.1109/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://linkedin.com/in/vohoangkiet">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/VoHoangKiet">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://facebook.com/kiet.vohoang.1109/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
   </a>
 </div>
 
 ---
 
-## 🎯 Current Goals
-
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>🚀 Master advanced React patterns and state management</li>
-    <li>🔧 Contribute to open-source projects</li>
-    <li>📱 Build innovative mobile applications</li>
-    <li>🌱 Learn cloud technologies (AWS, Azure)</li>
-    <li>🤝 Collaborate on exciting projects</li>
-  </ul>
+  <h3>🚀 Let’s build meaningful products together</h3>
+  <p>If you like my work, feel free to ⭐ a repo or reach out!</p>
 </div>
 
----
-
 <div align="center">
-  <h3>🎉 Let's Build Something Amazing Together!</h3>
-  <p>Feel free to browse my repositories and star the ones you like ⭐</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+😊;Happy+coding+in+2026!+💻" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Happy+coding!+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-
-
