@@ -1,84 +1,94 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=6366F1&center=true&vCenter=true&width=560&lines=Hi,+I'm+Vo+Hoang+Kiet;Full-stack+Developer;I+build+systems,+not+just+UI" />
-</div>
+# Vo Hoang Kiet
+
+Full-stack Developer  
+Building systems, products, and tools.
 
 ---
 
-## 👋 About
+## About
 
-I'm **Vo Hoang Kiet**, a **Full-stack Developer** focused on building **real-world systems**.
+I’m a final-year student at **FPT University**, working as a **full-stack developer**.
 
-- 🎓 Final-year student @ FPT University  
-- 🧠 Interested in **System Design, Backend Architecture, AI-assisted products**
-- ⚙️ I enjoy turning complex ideas into **maintainable, scalable systems**
+I care more about:
+- how systems are designed
+- how services communicate
+- how products scale over time
 
-> I don’t just code features — I design how things work together.
-
----
-
-## 🧠 What I Build
-
-- 🔐 Authentication & authorization systems  
-- 🚪 API Gateways & service-to-service communication  
-- 🧩 Modular backend architectures (monolith → microservice ready)  
-- 📱 Production-ready web & mobile applications  
-- 🤖 AI-powered features via API & agent concepts  
+than about frameworks or trends.
 
 ---
 
-## 🧰 Tech Stack (by domain)
+## What I’m Doing
 
-### Frontend
-- React, Next.js, Vue 3  
-- TypeScript, Tailwind CSS  
-- State management (Redux Toolkit, Saga)  
-- Motion & interaction (Framer Motion)
-
-### Mobile
-- React Native (Expo)  
-- Flutter  
-
-### Backend
-- Node.js (NestJS, Express)  
-- Spring Boot (Java)  
-- Golang (Gateway, gRPC services)  
-- REST, GraphQL  
-
-### Data
-- MongoDB  
-- PostgreSQL, MySQL  
-- Oracle DB  
-- Data modeling & schema design  
-
-### Infra & DevOps
-- Docker, Docker Compose  
-- GitHub Actions (CI/CD)  
-- AWS EC2  
-- Nginx, environment & secrets management  
-
-### AI / Automation
-- Python-based AI services  
-- API-first AI integration  
-- Agent-oriented system thinking  
+- Designing backend systems with clear boundaries
+- Building API-first services
+- Exploring microservice & gateway architectures
+- Integrating AI capabilities into real products
+- Shipping web & mobile apps used by real users
 
 ---
 
-## 🎯 2026 Goals
+## Stack (by usage)
 
-- Design **clean & scalable architectures**
-- Go deeper into **Cloud & AI systems**
-- Build products people actually use
-- Grow from *developer* → *engineer*
+**Frontend**
+- React, Next.js, Vue 3
+- TypeScript, Tailwind CSS
+- State management, motion, UX details
+
+**Mobile**
+- React Native (Expo)
+- Flutter
+
+**Backend**
+- Node.js (NestJS, Express)
+- Spring Boot
+- Golang (gateway, gRPC)
+- REST, GraphQL
+
+**Data**
+- MongoDB
+- PostgreSQL, MySQL
+- Oracle DB
+
+**Infra**
+- Docker, Docker Compose
+- GitHub Actions
+- AWS EC2
+- Nginx
+- Environment & secrets management
+
+**AI**
+- Python services
+- API-based AI integration
+- Agent-oriented system thinking
 
 ---
 
-## 🌐 Contact
+## Current Focus (2026)
 
-- 📧 Email: **muoivo.051064@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/vohoangkiet**
-- 🌍 Facebook: **facebook.com/kiet.vohoang.1109**
+- Authentication & authorization design
+- Service-to-service communication
+- Gateway patterns
+- Cloud-ready architectures
+- AI-assisted features
 
 ---
 
-> If you like building systems, we’ll get along 🤝  
-> Feel free to explore my repositories.
+## Philosophy
+
+> Code is easy.  
+> Designing a system that survives change is hard.
+
+I try to do the second one.
+
+---
+
+## Contact
+
+- Email: **muoivo.051064@gmail.com**
+- LinkedIn: **linkedin.com/in/vohoangkiet**
+- Facebook: **facebook.com/kiet.vohoang.1109**
+
+---
+
+If something here resonates with you, feel free to reach out.
