@@ -1,94 +1,98 @@
-# Vo Hoang Kiet
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=E11D48&center=true&vCenter=true&width=640&lines=Happy+Lunar+New+Year+2026+🧧;Vo+Hoang+Kiet;Full-stack+Developer+%7C+System+Architect;Build+Reliable+Systems" />
+</div>
 
-Full-stack Developer  
-Building systems, products, and tools.
-
----
-
-## About
-
-I’m a final-year student at **FPT University**, working as a **full-stack developer**.
-
-I care more about:
-- how systems are designed
-- how services communicate
-- how products scale over time
-
-than about frameworks or trends.
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/xUPGcgtKxmEJ8yDxm0/giphy.gif" width="140" />
+</div>
 
 ---
 
-## What I’m Doing
+## 🌸 About
 
-- Designing backend systems with clear boundaries
-- Building API-first services
-- Exploring microservice & gateway architectures
-- Integrating AI capabilities into real products
-- Shipping web & mobile apps used by real users
+I’m **Vo Hoang Kiet**, a full-stack developer focused on **system design and product engineering**.
 
----
+I work on:
+- backend-heavy systems
+- service communication & architecture
+- products that need to scale and evolve
 
-## Stack (by usage)
-
-**Frontend**
-- React, Next.js, Vue 3
-- TypeScript, Tailwind CSS
-- State management, motion, UX details
-
-**Mobile**
-- React Native (Expo)
-- Flutter
-
-**Backend**
-- Node.js (NestJS, Express)
-- Spring Boot
-- Golang (gateway, gRPC)
-- REST, GraphQL
-
-**Data**
-- MongoDB
-- PostgreSQL, MySQL
-- Oracle DB
-
-**Infra**
-- Docker, Docker Compose
-- GitHub Actions
-- AWS EC2
-- Nginx
-- Environment & secrets management
-
-**AI**
-- Python services
-- API-based AI integration
-- Agent-oriented system thinking
+I value **clarity, boundaries, and long-term maintainability** over quick hacks.
 
 ---
 
-## Current Focus (2026)
+## 🧠 What I Build
 
-- Authentication & authorization design
-- Service-to-service communication
-- Gateway patterns
-- Cloud-ready architectures
-- AI-assisted features
+- Authentication & authorization platforms  
+- API-first backend services  
+- Gateway & service-to-service architectures  
+- Web & mobile products in production  
+- AI-assisted features integrated via APIs  
 
----
-
-## Philosophy
-
-> Code is easy.  
-> Designing a system that survives change is hard.
-
-I try to do the second one.
+This repository reflects **how I think**, not just what I code.
 
 ---
 
-## Contact
+## 🧰 Tech Stack (Product-oriented)
 
-- Email: **muoivo.051064@gmail.com**
-- LinkedIn: **linkedin.com/in/vohoangkiet**
-- Facebook: **facebook.com/kiet.vohoang.1109**
+### Frontend
+- React, Next.js, Vue 3  
+- TypeScript, Tailwind CSS  
+- UX details & motion
+
+### Mobile
+- React Native (Expo)  
+- Flutter  
+
+### Backend
+- Node.js (NestJS, Express)  
+- Spring Boot  
+- Golang (gateway, gRPC)  
+
+### Data
+- MongoDB  
+- PostgreSQL, MySQL  
+- Oracle DB  
+
+### Infra
+- Docker & Docker Compose  
+- GitHub Actions (CI/CD)  
+- AWS EC2  
+- Nginx & environment management  
+
+### AI
+- Python-based AI services  
+- API-based AI integration  
+- Agent-oriented system concepts  
 
 ---
 
-If something here resonates with you, feel free to reach out.
+## 🧧 2026 Direction
+
+- Design systems that survive change  
+- Build products, not demos  
+- Integrate AI where it adds real value  
+- Improve reliability, observability, and scale  
+
+---
+
+## 🧨 Philosophy
+
+> Good code solves today’s problem.  
+> Good architecture survives tomorrow’s change.
+
+---
+
+## 🌐 Contact
+
+📧 **Email**: kietvohoang2k3@gmail.com  
+💼 **LinkedIn**: linkedin.com/in/vohoangkiet  
+🌍 **Facebook**: facebook.com/kiet.vohoang.1109  
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=F59E0B&center=true&vCenter=true&width=520&lines=Wishing+you+clean+architecture+✨;Bug-free+deployments+in+2026+🚀" />
+</div>
