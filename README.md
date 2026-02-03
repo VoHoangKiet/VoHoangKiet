@@ -1,85 +1,102 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=520&lines=Hi+there!+👋;I'm+Vo+Hoang+Kiet;Full-stack+Developer+%7C+System+Builder;Welcome+to+my+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Hi+there!+👋;I'm+Vo+Hoang+Kiet;Full-stack+Developer+%7C+System+Builder;Welcome+to+my+GitHub+2026" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VoHoangKiet&style=flat-square&color=6366F1" />
-  <img src="https://img.shields.io/badge/Student-FPT%20University-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/FPT%20University-Student-6366F1?style=flat-square" />
   <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Year-2026-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-System%20%26%20Product-success?style=flat-square" />
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-👋 Hi, I’m **Vo Hoang Kiet** — a **Full-stack Developer** who loves building **real products**, not just demos.
+I’m **Vo Hoang Kiet** — a **Full-stack Developer** focused on building **real-world systems**, not just UI demos.
 
-- 🎯 Focus: **Web · Mobile · Backend · System Design**
-- 🧠 Interests: **Scalable systems, Microservices, AI-assisted products**
-- 🧑‍🎓 Final-year student at **FPT University**
-- 🔥 Motto: *Build → Break → Learn → Repeat*
+- 🧠 Strong interest in **System Design & Architecture**
+- ⚙️ Enjoy building **microservices, gateways, scalable backends**
+- 📱 Ship **mobile & web apps** used by real users
+- 🤖 Actively learning **AI-assisted & agent-based systems**
+- 🎓 Final-year student at **FPT University**
 
----
-
-## 🧠 What I’m Working On (2026)
-
-- ⚙️ **Microservice architectures** (Auth, Gateway, gRPC)
-- ☁️ **Cloud & DevOps** (AWS, CI/CD, infra thinking)
-- 🤖 **AI-powered features** (agents, personalization, automation)
-- 📱 **Production mobile apps** (React Native / Flutter)
-- 🎮 **Unity + GPS game systems**
+> I care about **why** a system works, not just **how** to code it.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Current Focus (2026)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vue.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-
-### Backend
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go)
-
-### Database & Infra
-![MongoDB](https://img.shields.io/badge/MongoDB-001E2B?style=for-the-badge&logo=mongodb)
-![Postgres](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+- 🔐 Auth systems (JWT, Refresh Token, SSO mindset)
+- 🚪 API Gateway & Service-to-Service communication
+- ⚡ gRPC, REST, event-driven thinking
+- ☁️ Cloud deployment & CI/CD
+- 🤖 AI features: automation, agents, personalization
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoHoangKiet&show_icons=true&theme=radical&hide_border=true" />
-</div>
+### 🌐 Frontend
+- React, Next.js, Vue 3
+- TypeScript, JavaScript
+- Tailwind CSS, Ant Design
+- Redux Toolkit, Redux Saga
+- Framer Motion
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VoHoangKiet&theme=radical&hide_border=true" />
-</div>
+### 📱 Mobile
+- React Native (Expo)
+- Flutter
+- Mobile state & performance optimization
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoHoangKiet&layout=compact&theme=radical&hide_border=true" />
-</div>
+### 🖥 Backend
+- Node.js (Express, NestJS)
+- Spring Boot (Java)
+- Golang (Gateway, gRPC services)
+- RESTful APIs, GraphQL
+- Authentication & Authorization design
+
+### 🗄 Databases
+- MongoDB
+- PostgreSQL
+- MySQL
+- Oracle DB
+- Schema design & data modeling
+
+### ⚙️ DevOps & Cloud
+- Docker, Docker Compose
+- GitHub Actions (CI/CD)
+- AWS EC2, basic cloud networking
+- Environment & secrets management
+- Nginx (basic reverse proxy)
+
+### 🤖 AI / Automation
+- Python for AI services
+- API-based AI integration
+- Agent-based system concepts
+- AI-assisted product features
+
+### 🎮 Game / 3D
+- Unity (C#)
+- GPS-based gameplay systems
+- 3D model handling & logic
+
+### 🛠 Tools
+- Git & GitHub
+- VS Code / Cursor
+- Postman
+- Linux CLI
+- Figma (dev handoff)
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals for 2026
 
-- ✅ Design **clean system architectures**
-- ✅ Ship **real, scalable products**
-- ✅ Contribute to **open-source**
-- ✅ Master **Cloud + AI integration**
-- ✅ Grow from *coder* → *engineer*
+- 🚀 Build **clean, scalable systems**
+- 🧩 Design **clear service boundaries**
+- 🤝 Collaborate on **real products**
+- 🌱 Go deeper into **Cloud & AI**
+- 📦 Ship things that people actually use
 
 ---
 
@@ -100,8 +117,8 @@
 ---
 
 <div align="center">
-  <h3>🚀 Let’s build meaningful products together</h3>
-  <p>If you like my work, feel free to ⭐ a repo or reach out!</p>
+  <h3>🔥 Build systems. Ship products. Learn deeply.</h3>
+  <p>If you like my work, feel free to ⭐ a repository or reach out.</p>
 </div>
 
 <div align="center">
